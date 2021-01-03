@@ -2,7 +2,7 @@
 # how i can use?
 ### **<a href="https://twitter.com/F14Commander/status/1344966844332072960?s=20">Click Here Please</a>**
 # install:
-### حاولت إني اقلل الأوامر عشان المبتدئين يفهمونها
+### حاولت اقلل الأكواد البرمجية عشان المبتدئين يفهمونها
 ### pip3 install pyqrcode
 ### pip3 install pypng 
 ### git clone https://github.com/xF14x/QRcode-Create.git
