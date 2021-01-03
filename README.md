@@ -14,6 +14,6 @@
 ### cd QRcode-Create
 ### python3 qrcode.py 
 # my accounts :
-### <a href="">Twitter</a>
-### <a href="">SnapChat</a>
-### <a href="">YouTube</a>
+### <a href="https://twitter.com/F14Commander">Twitter</a>
+### <a href="https://snapchat.com/add/sulimanxx1">SnapChat</a>
+### <a href="https://www.youtube.com/channel/UCcOXGSw12Y-d4359PWLrxgQ">YouTube</a>
